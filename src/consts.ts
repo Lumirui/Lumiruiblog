@@ -11,6 +11,6 @@ export const GITHUB_CONFIG = {
 	OWNER: process.env.NEXT_PUBLIC_GITHUB_OWNER || 'Lumirui',
 	REPO: process.env.NEXT_PUBLIC_GITHUB_REPO || 'Lumiruiblog',
 	BRANCH: process.env.NEXT_PUBLIC_GITHUB_BRANCH || 'main',
-	APP_ID: process.env.NEXT_PUBLIC_GITHUB_APP_ID || '-',
+	APP_ID: process.env.NEXT_PUBLIC_GITHUB_APP_ID || 'https://lumiruiblog.vercel.app/',
 	ENCRYPT_KEY: process.env.NEXT_PUBLIC_GITHUB_ENCRYPT_KEY || 'wudishiduomejimo',
 } as const
