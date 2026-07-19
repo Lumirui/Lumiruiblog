@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"title": "Lumirui's blog",
+		"title": "Lumirui",
 		"description": "Lumirui的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
 		"username": "Lumirui"
 	},
@@ -45,7 +45,7 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/Lumirui/Lumiruiblog",
 			"label": "Github",
 			"order": 3
 		},
@@ -59,7 +59,7 @@
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "wr666888333@163.com",
 			"label": "",
 			"order": 1
 		}
